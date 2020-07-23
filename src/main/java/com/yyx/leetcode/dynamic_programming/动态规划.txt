@@ -1,0 +1,15 @@
+阿里试题:
+1. 有n级台阶，每次可以上1级或者2级，那么一共有多少种不同的走法可以上去？请用代码实际编码解决。
+2. 3个猴子抢10个桃子吃, 假设桃子的编号是从0-9, 每只猴子一次可以抢1个桃子, 请用多线程的方式模拟猴子抢桃子的结果. 并输出出来. 请用代码解决该问题.
+3. 二维数组maze[][], 0代表可以通行, 1代表不能通行. 迷宫由raw行和column列组成. 机器人在maze中的某处 i,j. 请为机器人找到走出迷宫的最近通路, 如果没有通路, 则输出没有通路.
+
+
+动态规划解题文章:
+从易到难-->
+https://mp.weixin.qq.com/s/erJPc8Xx9BBXY1ZiEXVvKg
+
+https://mp.weixin.qq.com/s/15RW2DstBNXNFz7xuzbDig
+
+https://mp.weixin.qq.com/s/RPBRysbX7wgW_vnPNqloYA
+
+https://mp.weixin.qq.com/s/3ttU2ETsWUvWDlS0tVE-nQ
